@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Engr. Osita Arukweh  
-### 🔍 *Data Analyst | Petroleum Loss Control Expert | Marine Transportation Logistics Professional*  
+### 🔍 *Data Analyst | Petroleum Loss Control Expert | Marine Transportation Logistics Expert delivering tailored solutions with Excel, Power BI, SQL & Python to optimize operations and reduce losses.*  
 
-I am passionate about leveraging **data-driven insights** and **customized solutions** to address complex challenges in **Petroleum Loss Control**, **Marine Transportation Logistics**, and **Business Optimization**. With a deep understanding of these industries and advanced expertise in tools like **Excel**, **Power BI**, and **Python**, I deliver solutions that drive efficiency, reduce losses, and improve decision-making processes.
+I am passionate about leveraging **data-driven insights** and **customized solutions** to address complex challenges in **Petroleum Loss Control**, **Marine Transportation Logistics**, and **Business Optimization**. With a deep understanding of these industries and advanced expertise in tools like **Excel**, **Power BI**, **SQL** and **Python**, I deliver solutions that drive efficiency, reduce losses, and improve decision-making processes.
 
 ---
 
